@@ -36,4 +36,4 @@ Esperamos que este projeto seja útil para músicos e profissionais da música, 
 
 ---
 
-Desenvolvido com 💙 por [Christian_Kringel].
+Desenvolvido por Christian_Kringel.
