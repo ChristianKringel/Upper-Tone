@@ -20,6 +20,11 @@ Este é um aplicativo simples para edição de notas musicais em arquivos `.docx
 5. **Salvar e Fechar**:
    - Clique no botão `Salvar e Fechar`.
    - Escolha o nome e o local onde o arquivo será salvo.
+     
+## Requisitos para executar como .py
+
+**É necessário ter o [Python](https://www.python.org/downloads/) instalado para executar o arquivo `.py`.**
+**É necessário executar o comano `pip install python-docx`
 
 ## Motivações do Projeto
 
