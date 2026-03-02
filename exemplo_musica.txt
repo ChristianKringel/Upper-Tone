@@ -1,0 +1,28 @@
+# Exemplo de Música - Amazing Grace
+
+## Verso 1
+DO SOL DO MI
+SOL LA SOL MI DO
+DO SOL DO MI
+RE DO SOL MI
+
+## Refrão  
+SOL LA SOL MI DO
+RE MI FA SOL LA
+SI DO RE MI FA
+SOL LA SI DO
+
+## Verso 2 (com sustenidos)
+DO# SOL# DO# FA
+SOL# LA# SOL# FA DO#
+DO# SOL# DO# FA
+RE# DO# SOL# FA
+
+---
+
+Instruções:
+1. Salve este arquivo como "musica_exemplo.txt"
+2. Abra o Upper Tone
+3. Selecione este arquivo
+4. Escolha quantos semitons quer transpor
+5. Veja a mágica acontecer! 🎵

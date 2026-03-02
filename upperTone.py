@@ -1,6 +1,14 @@
 """
-Para rodar este código fora do executável através do próprio python é necessário instalar:
+🎵 Upper Tone - Editor de Notas Musicais
+Versão 2.0
+
+Para rodar este código, é necessário instalar as seguintes bibliotecas:
 pip install python-docx customtkinter pillow
+
+Ou use o arquivo requirements.txt:
+pip install -r requirements.txt
+
+Desenvolvido por Christian Kringel
 """
 import customtkinter as ctk
 from tkinter import filedialog, messagebox
